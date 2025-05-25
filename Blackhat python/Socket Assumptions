@@ -1,0 +1,6 @@
+1. our connection will always succeed
+2. the server expects us to
+send data first (some servers expect to send data to you first and await your
+response)
+3. the server will always return data
+to us in a timely fashion

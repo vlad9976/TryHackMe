@@ -1,0 +1,9 @@
+```
+note.txt
+
+└─$ cat note.txt 
+In case I forget my password, I'm leaving a pointer to the internal shell service on the server.
+
+Connect to port 4420, the password is sardinethecat.
+- catlover
+```
