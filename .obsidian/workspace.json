@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "65761111bad9d3e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "03ce92ddfb69ce7e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0450f0c4318971fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "8 Linux Privilege Escalation/Sudo version exploits/exploit list.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "exploit list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61cfebe2c8da4ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9406db92b35dc159",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11fc6a736339563",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6b4bd63d40b72e36",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5a916f5b3fad1dc8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 495.5
+  },
+  "right": {
+    "id": "773ed996fa87e866",
+    "type": "split",
+    "children": [
+      {
+        "id": "14e54cefcff7ef55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "407dd7c54e5c5477",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "8 Linux Privilege Escalation/Sudo version exploits/exploit list.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for exploit list"
+            }
+          },
+          {
+            "id": "7c8e81464faf45fc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "8 Linux Privilege Escalation/Sudo version exploits/exploit list.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from exploit list"
+            }
+          },
+          {
+            "id": "da925b7b5291276c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "70be89e9ac3b4c17",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "8 Linux Privilege Escalation/Sudo version exploits/exploit list.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of exploit list"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e11fc6a736339563",
+  "lastOpenFiles": [
+    "README.md",
+    "README (6).md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/1 Enumeration.md",
+    "8 Linux Privilege Escalation/Linux PrivEsc/2 Weak File Permissions - Readable -etc-shadow/Weak File Permissions - Readable -etc-shadow.md",
+    "8 Linux Privilege Escalation/Linux PrivEsc/1 Service Exploits/Service Exploits MYSQL.md",
+    "Linux Streight/1 Finding your way around linu/Find your way around linux.md",
+    "8 Linux Privilege Escalation/Linux PrivEsc/12 SUID - SGID Executables - Environment Variables/SUID - SGID Executables - Environment Variables.md",
+    "8 Linux Privilege Escalation/Linux PrivEsc/11 SUID - SGID Executables - Shared Object Injection/SUID - SGID Executables - Shared Object Injection.md",
+    "8 Linux Privilege Escalation/Linux PrivEsc/10 SUID - SGID Executables - Known Exploits/SUID - SGID Executables - Known Exploits.md",
+    "8 Linux Privilege Escalation/Sudo version exploits/exploit list.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/4 Privilege Escalation- Sudo.md",
+    "8 Linux Privilege Escalation/Linux PrivEsc/5 Sudo - Shell Escape Sequences/Sudo - Shell Escape Sequences.md",
+    "Linux Streight/2 Working with files/Working with files.md",
+    "Linux Streight/7 Reading SQL databases sakila/Load sakila db/load sakila db.md",
+    "Linux Streight/7 Reading SQL databases sakila/Reading SQL databases.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/Users.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/Enum missy.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/Capstone Escalation.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/Capstone Challange.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/9 Privilege Escalation- NFS.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/8 Privilege Escalation- PATH.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/7 Privilege Escalation- Cron Jobs.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/6 Privilege Escalation- Capabilities.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/5 Privilege Escalation- SUID.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/3 Privilege Escalation- Kernel Exploits.md",
+    "8 Linux Privilege Escalation/Linux Privilege Escalation/2 Automated Enumeration Tools.md"
+  ]
+}
