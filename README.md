@@ -1,5 +1,5 @@
 <!-- â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€â”€ -->
-# ðŸ›¡ï¸ TryHackMe / Offensive-Security Knowledge Base
+#¸ TryHackMe / Offensive-Security Knowledge Base
 Hands-on notes, cheat-sheets and proof-of-concept (PoC) code collected while
 working through **TryHackMe rooms, CTFs and real-world penetration-testing
 engagements**. Everything here is organised so you can jump straight to the
